@@ -1,0 +1,13 @@
+c:\users\arhimond\documents\visual studio 2015\Projects\WorkWithAPI\WorkWithAPI\bin\Debug\WorkWithAPI.exe.config
+E:\WorkWithAPI\WorkWithAPI\bin\Debug\WorkWithAPI.exe.config
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\bin\Debug\WorkWithAPI.exe.config
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\bin\Debug\WorkWithAPI.exe
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\bin\Debug\WorkWithAPI.pdb
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\bin\Debug\xNet.dll
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\obj\Debug\WorkWithAPI.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\obj\Debug\WorkWithAPI.Form1.resources
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\obj\Debug\WorkWithAPI.Properties.Resources.resources
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\obj\Debug\WorkWithAPI.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\obj\Debug\WorkWithAPI.exe
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\obj\Debug\WorkWithAPI.pdb
+C:\Users\1\Desktop\WorkWithAPI\WorkWithAPI\obj\Debug\WorkWithAPI.Form2.resources
